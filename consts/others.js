@@ -1,7 +1,7 @@
 const HALLO = {
-  en: "XXXXX, Shalom!\n\n👉❗❗\nIn reply to your request, you'll find below my *XXX proposal* for yours upcoming trip to\n\n",
-  fr: "XXXXX, Shalom!\n\n👉❗❗\nSuite à ta/votre demande, tu/vous trouveras ci-dessous, l’itinéraire de vol proposé pour ton/votre prochain voyage à \n\n",
-  he: "XXXXX, שלום!\n\n👉❗❗\nבהמשך לפנייתך להלן פרטי ההצעה המבוקשת עבור נסיעתך הקרובה \n\n",
+  en: "XXXXX, Shalom!!\n\n👉❗❗\nIn reply to your request, you'll find below my *XXX proposal* for yours upcoming trip to\n\n",
+  fr: "XXXXX, Shalom!!\n\n👉❗❗\nSuite à ta/votre demande, tu/vous trouveras ci-dessous, l’itinéraire de vol proposé pour ton/votre prochain voyage à \n\n",
+  he: "XXXXX, שלום!!\n\n👉❗❗\nבהמשך לפנייתך להלן פרטי ההצעה המבוקשת עבור נסיעתך הקרובה \n\n",
 };
 
 const KINDLY_REPLY = {
